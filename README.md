@@ -13,11 +13,11 @@ Starck Brothers Application
 3. Current storage software lacks easy/simple reporting mechanisms for the data it stores.
 
 # Misc Info
-## Google Drive
+### Google Drive
 https://drive.google.com/drive/u/0/folders/1KKUFi880AYsH8wqEDa_iJoOkR_2bip3X
 
-## Slack
+### Slack
 https://join.slack.com/t/starckapps/shared_invite/enQtMzM0Nzc5MjMwNzg0LWQ5OGQzMmYwMDU5Zjc0ZWQxZTY0ZWFjZmVlMWRmMjZhZGEwNDdiZmQ3MWI0NGY1ZjVjYTkwYjI2MzVkZTQ2MjE
 
-## Discord
+### Discord
 https://discord.gg/C5PaG4Z
