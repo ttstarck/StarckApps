@@ -8,20 +8,16 @@ Starck Brothers Application
  Any business small or large that is looking to update their outdated storage software or provide more functionality compared to a simple package.
  
  # Why build it?
-1) Current storage software is out of date
+1. Current storage software is out of date
+2. Current storage software is difficult to learn/use without a level of expertise
+3. Current storage software lacks easy/simple reporting mechanisms for the data it stores.
 
-
-2) Current storage software is difficult to learn/use without a level of expertise
-
-
-3) Current storage software lacks easy/simple reporting mechanisms for the data it stores.
-
-
-# Google Drive
+# Misc Info
+## Google Drive
 https://drive.google.com/drive/u/0/folders/1KKUFi880AYsH8wqEDa_iJoOkR_2bip3X
 
-# Slack
+## Slack
 https://join.slack.com/t/starckapps/shared_invite/enQtMzM0Nzc5MjMwNzg0LWQ5OGQzMmYwMDU5Zjc0ZWQxZTY0ZWFjZmVlMWRmMjZhZGEwNDdiZmQ3MWI0NGY1ZjVjYTkwYjI2MzVkZTQ2MjE
 
-# Discord
+## Discord
 https://discord.gg/C5PaG4Z
